@@ -95,7 +95,7 @@ Earlier Qwen3.5-9B and Ministral qrels are retained in:
 older-versions/
 ```
 
-These older versions were generated with an different sub-narrative formulation. They are kept for reproducibility and comparison, but for new experiments we recommend the v2 Qwen3.5-9B and Ministral files in the parent directory.
+These older versions were generated with a different sub-narrative formulation. They are kept for reproducibility and comparison, but for new experiments, if you plan to use the Qwen3.5-9B or Ministral files, we recommend the v2 versions in the parent directory.
 
 ```text
 older-versions/rag25-climbmix-umbrela-qwen3.5-9b-v1.qrels
